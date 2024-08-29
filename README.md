@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kiana!
-- 👀 I’m interested in Data Science, Chart Analysis, Financial Analytics, Machine Learning, Deep Learning, and my forever love, Quantum Computing!
+- 👀 I’m interested in Data Science, Chart Analysis, Financial Analytics, Machine Learning, Deep Learning, Signal Processing, and my forever love, Quantum Computing!
 - 🌱 I’m currently learning Deep Learning and Artificial Intelligence
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects
 - 📫 How to reach me: kiana.jafari.ai@gmail.com
