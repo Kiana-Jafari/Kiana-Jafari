@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Deep Learning and Artificial Intelligence
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects
 - 📫 How to reach me: kiana.jafari.ai@gmail.com
+- 📫 Check me on <a href='https://medium.com/@Kiana-Jafari'>Medium</a>!
 
 I'm regularly working on projects related to DS/ML/AI. You can check my projects in the following specific order:
 1. Data Science
