@@ -15,4 +15,4 @@ I'm regularly working on projects related to DS/ML/AI. You can check my projects
    - <a href='https://github.com/Kiana-Jafari/Salifort-Motors-Customer-Churn.git'>Predicting Salifort Motors Customer Churn</a>
 4. Artificial Intelligence
    - <a href='https://github.com/Kiana-Jafari/Fashion-MNIST-Product-Classifier.git'>Fashion MNIST Product Classifier</a>
-   - <a href='https://github.com/Kiana-Jafari/Digit-Recognition'>Handwritten Digit Recognition (Educational and Replicating Research Purposes)</a>
+   - <a href='https://github.com/Kiana-Jafari/Handwritten-Digit-Recognition.git'>Handwritten Digit Recognition (For Educational and Replicating Research Purposes)</a>
