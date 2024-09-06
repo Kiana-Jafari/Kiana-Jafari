@@ -7,8 +7,8 @@
 
 I'm regularly working on projects related to DS/ML/AI. You can check my projects in the following specific order:
 1. Data Science
-   - <a href='https://github.com/Kiana-Jafari/Dr.-Semmelweis-and-the-Discovery-of-Handwashing'>Dr. Semmelweis and the Discovery of Handwashing</a>
    - <a href='https://github.com/Kiana-Jafari/Mobile-Games-AB-Testing-with-Cookie-Cats'>Mobile Games A/B Testing with Cookie Cats</a>
+   - <a href='https://github.com/Kiana-Jafari/Dr.-Semmelweis-and-the-Discovery-of-Handwashing'>Dr. Semmelweis and the Discovery of Handwashing</a>
 3. Machine Learning
    - <a href='https://github.com/Kiana-Jafari/TikTok-Status-prediction'>Predicting TikTok Status</a>
    - <a href='https://github.com/Kiana-Jafari/Salifort-Motors-Customer-Churn/tree/main'>Predicting Salifort Motors Customer Churn</a>
