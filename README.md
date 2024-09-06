@@ -14,5 +14,5 @@ I'm regularly working on projects related to DS/ML/AI. You can check my projects
    - <a href='https://github.com/Kiana-Jafari/Classify-Song-Genres-from-Audio-Data.git'>Classify Song Genres from Audio Data</a>
    - <a href='https://github.com/Kiana-Jafari/Salifort-Motors-Customer-Churn.git'>Predicting Salifort Motors Customer Churn</a>
 4. Artificial Intelligence
-   - <a href='https://github.com/Kiana-Jafari/Fashion-MNIST-Product-Classifier'>Fashion MNIST Product Classifier</a>
+   - <a href='https://github.com/Kiana-Jafari/Fashion-MNIST-Product-Classifier.git'>Fashion MNIST Product Classifier</a>
    - <a href='https://github.com/Kiana-Jafari/Digit-Recognition'>Handwritten Digit Recognition (Educational and Replicating Research Purposes)</a>
