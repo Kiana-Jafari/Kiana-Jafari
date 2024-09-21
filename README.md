@@ -7,6 +7,7 @@
 
 P.S. I'm regularly working on projects related to DS/ML/AI. You can check my projects in the following specific order:
 1. Data Science
+   - <a href='https://github.com/Kiana-Jafari/The-Android-App-Market-on-Google-Play.git'>The Android App Market on Google Play</a>
    - <a href='https://github.com/Kiana-Jafari/Mobile-Games-AB-Testing-with-Cookie-Cats.git'>Mobile Games A/B Testing with Cookie Cats</a>
    - <a href='https://github.com/Kiana-Jafari/Dr.-Semmelweis-and-the-Discovery-of-Handwashing.git'>Dr. Semmelweis and the Discovery of Handwashing</a>
    - <a href='https://github.com/Kiana-Jafari/Analyzing-TV-Data.git'>Analyzing TV Data</a>
