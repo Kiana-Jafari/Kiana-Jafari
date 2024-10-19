@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kiana!
-- 💞️ I’m interested in Data Science, Chart & Time Series Analysis, Financial Analytics, Quantum Computing, Deep Learning, Audio Signal Processing, and my forever love, Machine Learning!
-- 🌱 I’m currently learning Deep Learning and Artificial Intelligence
+- 💞️ I’m interested in Data Science, Financial Analytics, Quantum Computing, Deep Learning, Computer Vision, Audio Signal Processing, and my forever love Machine Learning!
+- 🌱 I’m currently learning Deep Learning, Artificial Intelligence, and Cybersecurity
 - ⭐ I’m looking to collaborate on Machine Learning and AI Projects
-- 📫 How to reach me: kiana.jafari.ai@gmail.com
+- 📫 How to reach me: kj155@student.london.ac.uk
 - 👀 Psst! Interested in the boundless world of mathematics and coding? Check out my <a href='https://medium.com/@Kiana-Jafari'>Medium</a>. You won't regret it! ✨
 
 P.S. I'm regularly working on projects related to DS/ML/AI. You can check my projects in the following specific order:
