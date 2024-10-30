@@ -5,7 +5,7 @@
 - 📫 How to reach me: kj155@student.london.ac.uk
 - 👀 Psst! Interested in the boundless world of mathematics and coding? Check out my <a href='https://medium.com/@Kiana-Jafari'>Medium</a>. You won't regret it! ✨
 
-P.S. I'm regularly working on projects related to DS/ML/AI. You can check my projects in the following specific order:
+P.S. I'm regularly working on projects related to DS/ML/AI. You can check my projects in the following order:
 1. Data Science
    - <a href='https://github.com/Kiana-Jafari/The-Android-App-Market-on-Google-Play.git'>The Android App Market on Google Play</a>
    - <a href='https://github.com/Kiana-Jafari/Mobile-Games-AB-Testing-with-Cookie-Cats.git'>Mobile Games A/B Testing with Cookie Cats</a>
