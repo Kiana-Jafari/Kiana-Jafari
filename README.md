@@ -16,7 +16,7 @@ P.S. I'm regularly working on projects related to DS/ML/AI. You can check my pro
    - <a href='https://github.com/Kiana-Jafari/Classify-Song-Genres-from-Audio-Data.git'>Classify Song Genres from Audio Data</a>
    - <a href='https://github.com/Kiana-Jafari/Salifort-Motors-Customer-Churn.git'>Predicting Salifort Motors Customer Churn</a>
    - <a href='https://github.com/Kiana-Jafari/Disney-Movies-and-Box-Office-Success.git'>Disney Movies and Box Office Success</a>
-3. Artificial Intelligence
+3. Deep Learning
    - <a href='https://github.com/Kiana-Jafari/Fashion-MNIST-Product-Classifier.git'>Fashion MNIST Product Classifier</a>
    - <a href='https://github.com/Kiana-Jafari/Handwritten-Digit-Recognition.git'>Handwritten Digit Recognition (For Educational and Replicating Research Purposes)</a>
 4. Business And Economics
