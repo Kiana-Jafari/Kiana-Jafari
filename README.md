@@ -17,8 +17,9 @@ P.S. I'm regularly working on projects related to DS/ML/AI. You can check my pro
    - <a href='https://github.com/Kiana-Jafari/Salifort-Motors-Customer-Churn.git'>Predicting Salifort Motors Customer Churn</a>
    - <a href='https://github.com/Kiana-Jafari/Disney-Movies-and-Box-Office-Success.git'>Disney Movies and Box Office Success</a>
 3. Deep Learning
+   - <a href='https://github.com/Kiana-Jafari/Traffic-Sign-Classifier-Application.git'>Traffic Sign Classifier Application</a>
    - <a href='https://github.com/Kiana-Jafari/Fashion-MNIST-Product-Classifier.git'>Fashion MNIST Product Classifier</a>
    - <a href='https://github.com/Kiana-Jafari/Handwritten-Digit-Recognition.git'>Handwritten Digit Recognition (For Educational and Replicating Research Purposes)</a>
-4. Business And Economics
+5. Business And Economics
    - <a href='https://github.com/Kiana-Jafari/Which-Debts-Are-Worth-the-Bank-Effort.git'>Which Debts Are Worth the Bank's Effort?</a>
    - <a href='https://github.com/Kiana-Jafari/What-and-Where-are-the-World-s-Oldest-Businesses.git'>What and Where are the World's Oldest Businesses?</a>
