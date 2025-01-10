@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Kiana!
+- 👋 Hi, I’m Kiana! A current student at the University of London, studying Computer Science major
+- 💻 Courses: Harvard AI with Python (in progress), Stanford Machine Learning Engineer, IBM AI Engineering, Google Advanced Data Analytics, Mathematics for Machine Learning and Data Science, Computational Mathematics, Crash Course on Python
 - 💞️ I’m interested in Data Science, Financial Analytics, Quantum Computing, Deep Learning, Computer Vision, Audio Signal Processing, and my forever love Machine Learning!
 - 🌱 I’m currently learning Deep Learning, Artificial Intelligence, and Game Development
 - ⭐ I’m looking to collaborate on Machine Learning and AI Projects
