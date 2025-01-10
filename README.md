@@ -21,8 +21,8 @@ Projects:
    - <a href='https://github.com/Kiana-Jafari/Traffic-Sign-Classifier-Application.git'>Traffic Sign Classifier Application</a>
    - <a href='https://github.com/Kiana-Jafari/Fashion-MNIST-Product-Classifier.git'>Fashion MNIST Product Classifier</a>
    - <a href='https://github.com/Kiana-Jafari/Handwritten-Digit-Recognition.git'>Handwritten Digit Recognition (For Educational and Replicating Research Purposes)</a>
-5. Business And Economics
+4. Business And Economics
    - <a href='https://github.com/Kiana-Jafari/Which-Debts-Are-Worth-the-Bank-Effort.git'>Which Debts Are Worth the Bank's Effort?</a>
    - <a href='https://github.com/Kiana-Jafari/What-and-Where-are-the-World-s-Oldest-Businesses.git'>What and Where are the World's Oldest Businesses?</a>
-6. Video Game Project
-   - <a href='https://github.com/Kiana-Jafari/2D-Side-Scrolling-Video-Game.git'>2D Side Scrolling Video Game (in progress)</a>
+5. Video Game Project
+   - <a href='https://github.com/Kiana-Jafari/2D-Side-Scrolling-Video-Game.git'>2D Side-Scrolling Video Game (in progress)</a>
