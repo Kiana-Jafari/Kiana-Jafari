@@ -9,21 +9,21 @@
 Projects:
 
 1. Data Science
-   - <a href='https://github.com/Kiana-Jafari/The-Android-App-Market-on-Google-Play.git'>The Android App Market on Google Play</a>
    - <a href='https://github.com/Kiana-Jafari/Mobile-Games-AB-Testing-with-Cookie-Cats.git'>Mobile Games A/B Testing with Cookie Cats</a>
+   - <a href='https://github.com/Kiana-Jafari/The-Android-App-Market-on-Google-Play.git'>The Android App Market on Google Play</a>
    - <a href='https://github.com/Kiana-Jafari/Analyzing-TV-Data.git'>Analyzing TV Data</a>
    - <a href='https://github.com/Kiana-Jafari/Dr.-Semmelweis-and-the-Discovery-of-Handwashing.git'>Dr. Semmelweis and the Discovery of Handwashing</a>
-2. Machine Learning
+3. Machine Learning
    - <a href='https://github.com/Kiana-Jafari/TikTok-Status-prediction.git'>Predicting TikTok Status</a>
    - <a href='https://github.com/Kiana-Jafari/Classify-Song-Genres-from-Audio-Data.git'>Classify Song Genres from Audio Data</a>
    - <a href='https://github.com/Kiana-Jafari/Salifort-Motors-Customer-Churn.git'>Predicting Salifort Motors Customer Churn</a>
    - <a href='https://github.com/Kiana-Jafari/Disney-Movies-and-Box-Office-Success.git'>Disney Movies and Box Office Success</a>
-3. Deep Learning
+4. Deep Learning
    - <a href='https://github.com/Kiana-Jafari/Traffic-Sign-Classifier-Application.git'>Traffic Sign Classifier Application</a>
    - <a href='https://github.com/Kiana-Jafari/Fashion-MNIST-Product-Classifier.git'>Fashion MNIST Product Classifier</a>
    - <a href='https://github.com/Kiana-Jafari/Handwritten-Digit-Recognition.git'>Handwritten Digit Recognition (For Educational and Replicating Research Purposes)</a>
-4. Business And Economics
+5. Business And Economics
    - <a href='https://github.com/Kiana-Jafari/Which-Debts-Are-Worth-the-Bank-Effort.git'>Which Debts Are Worth the Bank's Effort?</a>
    - <a href='https://github.com/Kiana-Jafari/What-and-Where-are-the-World-s-Oldest-Businesses.git'>What and Where are the World's Oldest Businesses?</a>
-5. Video Game Project
+6. Video Game Project
    - <a href='https://github.com/Kiana-Jafari/2D-Side-Scrolling-Video-Game.git'>2D Side-Scrolling Video Game (in progress)</a>
