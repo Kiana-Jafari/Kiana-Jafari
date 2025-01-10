@@ -6,14 +6,6 @@
 - 📫 How to reach me: kj155@student.london.ac.uk
 - 👀 Psst! Interested in the boundless world of mathematics and coding? Check out my <a href='https://medium.com/@Kiana-Jafari'>Medium</a>. You won't regret it! ✨
 
-Portfolio Link:
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- <a href='https://github.com/Kiana-Jafari/Mobile-Games-AB-Testing-with-Cookie-Cats.git'>Mobile Games A/B Testing with Cookie Cats</a>
-- <a href='https://github.com/Kiana-Jafari/Traffic-Sign-Classifier-Application.git'>Traffic Sign Classifier Application</a>
-- <a href='https://github.com/Kiana-Jafari/2D-Side-Scrolling-Video-Game.git'>2D Side-Scrolling Video Game (in progress)</a>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Projects:
 
 1. Data Science
