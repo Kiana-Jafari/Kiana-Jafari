@@ -5,6 +5,7 @@
 - ⭐ I’m looking to collaborate on Machine Learning and Computer Vision Projects
 - 📫 How to reach me: kj155@student.london.ac.uk
 - 👀 Psst! Interested in the boundless world of mathematics and coding? Check out my <a href='https://medium.com/@Kiana-Jafari'>Medium</a>. You won't regret it! ✨
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Projects:
 
