@@ -15,7 +15,7 @@ Projects:
    - <a href='https://github.com/Kiana-Jafari/Analyzing-TV-Data.git'>Analyzing TV Data</a>
    - <a href='https://github.com/Kiana-Jafari/Dr.-Semmelweis-and-the-Discovery-of-Handwashing.git'>Dr. Semmelweis and the Discovery of Handwashing</a>
 3. Machine Learning
-   - <a href='https://github.com/Kiana-Jafari/TikTok-Status-prediction.git'>Predicting TikTok Status</a>
+   - <a href='https://github.com/Kiana-Jafari/TikTok-Status-Prediction.git'>Predicting TikTok Status</a>
    - <a href='https://github.com/Kiana-Jafari/Classify-Song-Genres-from-Audio-Data.git'>Classify Song Genres from Audio Data</a>
    - <a href='https://github.com/Kiana-Jafari/Salifort-Motors-Customer-Churn.git'>Predicting Salifort Motors Customer Churn</a>
    - <a href='https://github.com/Kiana-Jafari/Disney-Movies-and-Box-Office-Success.git'>Disney Movies and Box Office Success</a>
