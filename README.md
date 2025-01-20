@@ -26,5 +26,5 @@ Projects:
 5. Business And Economics
    - <a href='https://github.com/Kiana-Jafari/Which-Debts-Are-Worth-the-Bank-Effort.git'>Which Debts Are Worth the Bank's Effort?</a>
    - <a href='https://github.com/Kiana-Jafari/What-and-Where-are-the-World-s-Oldest-Businesses.git'>What and Where are the World's Oldest Businesses?</a>
-6. Video Game Project
+6. Game Project
    - <a href='https://github.com/Kiana-Jafari/2D-Side-Scrolling-Video-Game.git'>2D Side-Scrolling Video Game (in progress)</a>
