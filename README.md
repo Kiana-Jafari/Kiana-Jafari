@@ -28,4 +28,5 @@ Projects:
    - <a href='https://github.com/Kiana-Jafari/What-and-Where-are-the-World-s-Oldest-Businesses.git'>What and Where are the World's Oldest Businesses?</a>
 6. Game Projects and JavaScript
    - <a href='https://github.com/Kiana-Jafari/2D-Side-Scrolling-Video-Game.git'>2D Side-Scrolling Video Game (in progress)</a>
+   - <a href='https://github.com/Kiana-Jafari/Particle-System.git'>Particle System</a>
    - <a href='https://github.com/Kiana-Jafari/Traffic-Line.git'>Traffic Flow Simulator</a>
