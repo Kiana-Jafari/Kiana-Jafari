@@ -30,3 +30,5 @@ Projects:
    - <a href='https://github.com/Kiana-Jafari/2D-Side-Scrolling-Video-Game.git'>2D Side-Scrolling Video Game (in progress)</a>
    - <a href='https://github.com/Kiana-Jafari/Particle-System.git'>Particle System</a>
    - <a href='https://github.com/Kiana-Jafari/Traffic-Line.git'>Traffic Flow Simulator</a>
+7. Mini Projects
+   - <a hrf='https://github.com/Kiana-Jafari/Mini-Projects.git'>Mini Projects</a>
