@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kiana! A current dual student at the University of London, studying Computer Science major
 - 💞️ I’m interested in Data Science, Financial Analytics, Quantum Computing, Deep Learning, Computer Vision, Audio Signal Processing, and my forever love Machine Learning!
 - 🌱 I’m currently learning AWS, Computer Science, Python Development, Deep Learning, and Artificial Intelligence
-- 💻 Courses: CS50's Introduction to Artificial Intelligence with Python (in progress), Stanford Machine Learning Engineer, IBM AI Engineering, Google Advanced Data Analytics, Mathematics for Machine Learning and Data Science, Computational Mathematics, Crash Course on Python
+- 💻 Courses: CS50's Introduction to Computer Science (in progress), Stanford Machine Learning Engineer, IBM AI Engineering, Google Advanced Data Analytics, Mathematics for Machine Learning and Data Science, Computational Mathematics, Crash Course on Python
 - ⭐ I’m looking to collaborate on Machine Learning and Computer Vision Projects
 - 📫 How to reach me: kiana.jafari.ai@gmail.com
 - 👀 Psst! Interested in the boundless world of mathematics and coding? Check out my <a href='https://medium.com/@Kiana-Jafari'>Medium</a>. You won't regret it! ✨
