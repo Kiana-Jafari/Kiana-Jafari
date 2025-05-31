@@ -7,6 +7,9 @@
 - 👀 Psst! Interested in the boundless world of mathematics and coding? Check out my <a href='https://medium.com/@Kiana-Jafari'>Medium</a>. You won't regret it! ✨
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+(_View my Resume!_)
+- <a href='https://github.com/Kiana-Jafari/Kiana-Jafari-Resume.git'>Kiana Jafari's Resume</a>
+
 Projects:
 
 1. Data Science
