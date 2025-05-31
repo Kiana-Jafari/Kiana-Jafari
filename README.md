@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kiana! A current dual student at the University of London, studying Computer Science major
+- 👋 Hi, I’m Kiana! A dual student at the University of London, studying Computer Science major
 - 💞️ I’m interested in Data Science, Financial Analytics, Quantum Computing, Deep Learning, Computer Vision, Audio Signal Processing, and my forever love Machine Learning!
 - 🌱 I’m currently learning C, AWS, Computer Science, Python Development, Deep Learning, and Artificial Intelligence
 - 💻 Courses: CS50's Introduction to Computer Science (in progress), Stanford Machine Learning Engineer, IBM AI Engineering, Google Advanced Data Analytics, Mathematics for Machine Learning and Data Science, Computational Mathematics, Crash Course on Python
