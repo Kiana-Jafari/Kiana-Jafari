@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kiana! A dual enrollment student at the University of London, majoring in Computer Science
 - 💞️ I’m interested in Data Science, Financial Analytics, Quantum Computing, Deep Learning, Computer Vision, Audio Signal Processing, and my forever love Machine Learning!
-- 🌱 I’m currently learning C, AWS, Computer Science, Python Development, Deep Learning, and Artificial Intelligence
-- 💻 Courses: CS50's Introduction to Computer Science (in progress), Stanford Machine Learning Engineer, IBM AI Engineering, Google Advanced Data Analytics, Mathematics for Machine Learning and Data Science, Computational Mathematics, Crash Course on Python
+- 🌱 I’m currently learning Databases with SQL, AWS, Computer Science, Python Development, Deep Learning, and Artificial Intelligence
+- 💻 Courses: CS50's Introduction to Databases with SQL (in progress), CS50's Introduction to Computer Science, Stanford Machine Learning Engineer, IBM AI Engineering, Google Advanced Data Analytics, Mathematics for Machine Learning and Data Science, Computational Mathematics, Crash Course on Python
 - ⭐ I’m looking to collaborate on Machine Learning and Computer Vision Projects
 - 📫 How to reach me: kiana.jafari.ai@gmail.com
 - 👀 Psst! Interested in the boundless world of mathematics and coding? Check out my <a href='https://medium.com/@Kiana-Jafari'>Medium</a>. You won't regret it! ✨
@@ -12,7 +12,10 @@
 
 Projects:
 
-1. Data Science
+1. Databases with SQL
+   - CS50's Databases with SQL Projects
+
+2. Data Science
    - <a href='https://github.com/Kiana-Jafari/Mobile-Games-AB-Testing-with-Cookie-Cats.git'>Mobile Games A/B Testing with Cookie Cats</a>
    - <a href='https://github.com/Kiana-Jafari/The-Android-App-Market-on-Google-Play.git'>The Android App Market on Google Play</a>
    - <a href='https://github.com/Kiana-Jafari/Analyzing-TV-Data.git'>Analyzing TV Data</a>
