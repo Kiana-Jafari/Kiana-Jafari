@@ -14,7 +14,7 @@ Projects:
 
 1. Databases with SQL
    - [CS50's Databases with SQL Projects](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects.git)
-   - [IBM SQL for Data Science Final Project]('https://github.com/Kiana-Jafari/final-project.git)
+   - [IBM SQL for Data Science Final Project](https://github.com/Kiana-Jafari/final-project.git)
    - [SQL Basic Projects](https://github.com/Kiana-Jafari/SQL-Basic-Projects.git)
 
 2. Data Science
