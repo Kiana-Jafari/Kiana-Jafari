@@ -15,7 +15,7 @@ Projects:
 1. Databases with SQL
    - [CS50's Databases with SQL Projects](https://github.com/Kiana-Jafari/CS50-Databases-with-SQL-Projects.git)
    - [IBM SQL for Data Science Final Project](https://github.com/Kiana-Jafari/final-project.git)
-   - [SQL Basic Projects](https://github.com/Kiana-Jafari/SQL-Basic-Projects.git)
+   - [SQL Projects](https://github.com/Kiana-Jafari/SQL-Projects.git)
 
 2. Data Science
    - <a href='https://github.com/Kiana-Jafari/Mobile-Games-AB-Testing-with-Cookie-Cats.git'>Mobile Games A/B Testing with Cookie Cats</a>
