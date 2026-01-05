@@ -34,7 +34,7 @@ Projects:
    - <a href='https://github.com/Kiana-Jafari/Disney-Movies-and-Box-Office-Success.git'>Disney Movies and Box Office Success</a>
    - <a href='https://github.com/Kiana-Jafari/Handwritten-Digit-Recognition.git'>Handwritten Digit Recognition (For Educational and Replicating Research Purposes)</a>
       
-4. Game and JavaScript Projects
+4. JavaScript | C++
    - <a href='https://github.com/Kiana-Jafari/2D-Side-Scrolling-Video-Game.git'>2D Side-Scrolling Video Game</a>
    - <a href='https://github.com/Kiana-Jafari/Particle-System.git'>Particle System</a>
    - <a href='https://github.com/Kiana-Jafari/Traffic-Line.git'>Traffic Flow Simulator</a>
