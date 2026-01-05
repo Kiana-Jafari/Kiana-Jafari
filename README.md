@@ -35,7 +35,7 @@ Projects:
    - <a href='https://github.com/Kiana-Jafari/Handwritten-Digit-Recognition.git'>Handwritten Digit Recognition (For Educational and Replicating Research Purposes)</a>
       
 4. JavaScript | C++
-   - <a href=''>Café Inventory Management System</a>
+   - <a href='https://github.com/Kiana-Jafari/cpp-projects/script.cpp'>Café Inventory Management System</a>
    - <a href='https://github.com/Kiana-Jafari/2D-Side-Scrolling-Video-Game.git'>2D Side-Scrolling Video Game</a>
    - <a href='https://github.com/Kiana-Jafari/Particle-System.git'>Particle System</a>
    - <a href='https://github.com/Kiana-Jafari/Traffic-Line.git'>Traffic Flow Simulator</a>
