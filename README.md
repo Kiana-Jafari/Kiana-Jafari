@@ -37,7 +37,7 @@ Projects:
 4. JavaScript | C++
    - <a href='https://github.com/Kiana-Jafari/cpp-projects/blob/59a6f500a3ed38b4c60ef9dfa971c37e1460e9f7/Projects/script.cpp'>Café Inventory Management System | C++</a>
    - <a href='https://github.com/Kiana-Jafari/cpp-projects/tree/59a6f500a3ed38b4c60ef9dfa971c37e1460e9f7/Pset2'>CS 50 Computer Science - Pset2 | C++</a>
-   - <a href='https://github.com/Kiana-Jafari/cpp-projects/tree/59a6f500a3ed38b4c60ef9dfa971c37e1460e9f7/Assignments'>Tehran University Assignments | C++</a>
+   - <a href='https://github.com/Kiana-Jafari/cpp-projects/tree/59a6f500a3ed38b4c60ef9dfa971c37e1460e9f7/Assignments'>University of Tehran Assignments | C++</a>
    - <a href='https://github.com/Kiana-Jafari/2D-Side-Scrolling-Video-Game.git'>2D Side-Scrolling Video Game | JavaScript</a>
    - <a href='https://github.com/Kiana-Jafari/Particle-System.git'>Particle System | JavaScript</a>
    - <a href='https://github.com/Kiana-Jafari/Traffic-Line.git'>Traffic Flow Simulator | JavaScript</a>
