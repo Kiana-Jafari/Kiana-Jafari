@@ -37,6 +37,7 @@ Projects:
 4. C++
    - <a href='https://github.com/Kiana-Jafari/cpp-projects/tree/b92e20ff6170a575d15484de22d3a75237ee3b36/Projects/Garage%20System'>Smart Parking Garage Management System</a>
    - <a href='https://github.com/Kiana-Jafari/cpp-projects/blob/59a6f500a3ed38b4c60ef9dfa971c37e1460e9f7/Projects/script.cpp'>Café Inventory Management System</a>
+   - <a href='https://github.com/Kiana-Jafari/cpp-projects/tree/646152e94f7813a1ef436353cb2181f5e79d8827/Assignments/Uni%20Registration%20System'>University Course Registration System</a>
    - <a href='https://github.com/Kiana-Jafari/cpp-projects/tree/c5223bfac702e104182e3b8475fd8fd95cf89f56/Assignments/Base%20Numbers'>Base Numbers (DLD)</a>
    - <a href='https://github.com/Kiana-Jafari/cpp-projects/tree/59a6f500a3ed38b4c60ef9dfa971c37e1460e9f7/Pset2'>CS50's Computer Science - Arrays</a>
    - <a href='https://github.com/Kiana-Jafari/cpp-projects/tree/59a6f500a3ed38b4c60ef9dfa971c37e1460e9f7/Assignments'>University of Tehran Assignments</a>
