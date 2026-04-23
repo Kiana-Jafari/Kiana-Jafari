@@ -39,8 +39,7 @@ Projects:
    - <a href='https://github.com/Kiana-Jafari/cpp-projects/tree/main/Projects/Uni'>University Course Registration System</a>
    - <a href='https://github.com/Kiana-Jafari/cpp-projects/tree/main/Projects/Garage'>Smart Parking Garage Management System</a>
    - <a href='https://github.com/Kiana-Jafari/cpp-projects/tree/c5223bfac702e104182e3b8475fd8fd95cf89f56/Assignments/Base%20Numbers'>Base Numbers (DLD)</a>
-   - <a href='https://github.com/Kiana-Jafari/cpp-projects/tree/59a6f500a3ed38b4c60ef9dfa971c37e1460e9f7/Pset2'>CS50's Computer Science - Arrays</a>
-   - <a href='https://github.com/Kiana-Jafari/cpp-projects/tree/59a6f500a3ed38b4c60ef9dfa971c37e1460e9f7/Assignments'>University of Tehran Assignments</a>
+   - <a href='https://github.com/Kiana-Jafari/cpp-projects/tree/main/Assignments'>Assignments</a>
 
 6. JavaScript
    - <a href='https://github.com/Kiana-Jafari/2D-Side-Scrolling-Video-Game.git'>2D Side-Scrolling Video Game</a>
