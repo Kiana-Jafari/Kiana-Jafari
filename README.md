@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kiana! A current Computer Engineering student and a former dual enrollment student at the University of London, majoring in Computer Science
+- 👋 Hi, I’m Kiana! A current CE student and a former dual enrollment CS student at the University of London
 - 💞️ I’m interested in Quantum Computing, Data Science, FinTech, Deep Learning, Computer Vision, and my forever love, Machine Learning!
-- 🌱 I’m currently learning Databases with SQL, Computer Science, Python Development, Deep Learning, and Artificial Intelligence
+- 🌱 I’m currently learning C++ & Databases with SQL, Computer Science, Java, Deep Learning, and Artificial Intelligence
 - 💻 Courses: CS50's Introduction to Databases with SQL, IBM SQL for Data Science, CS50's Introduction to Computer Science, Stanford Machine Learning Engineer, IBM AI Engineering, Google Advanced Data Analytics, Mathematics for Machine Learning and Data Science, Computational Mathematics, Crash Course on Python
 - ⭐ I’m looking to collaborate on Machine Learning and Computer Vision Projects
 - 📫 How to reach me: kiana.jafari.ai@gmail.com
@@ -35,6 +35,7 @@ Projects:
    - <a href='https://github.com/Kiana-Jafari/Handwritten-Digit-Recognition.git'>Handwritten Digit Recognition (For Educational and Replicating Research Purposes)</a>
       
 4. C++
+   - <a href='https://github.com/Kiana-Jafari/cpp-projects/tree/main/Assignments/Volleyball'>Volleyball Team Management System (mini)</a>
    - <a href='https://github.com/Kiana-Jafari/cpp-projects/tree/main/Projects/Train'>Train Reservation Management System</a>
    - <a href='https://github.com/Kiana-Jafari/cpp-projects/tree/main/Projects/Uni'>University Course Registration System</a>
    - <a href='https://github.com/Kiana-Jafari/cpp-projects/tree/main/Projects/Garage'>Smart Parking Garage Management System</a>
