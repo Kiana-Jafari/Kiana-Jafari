@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kiana! A current CE student and a former dual enrollment CS student at the University of London
 - 💞️ I’m interested in Quantum Computing, Data Science, FinTech, Deep Learning, Computer Vision, and my forever love, Machine Learning!
-- 🌱 I’m currently learning C++ & Databases with SQL, Computer Science, Java, Deep Learning, and Artificial Intelligence
+- 🌱 I’m currently learning C++ & Databases with SQL, SystemVerilog, Computer Science, Java, Deep Learning, and Artificial Intelligence
 - 💻 Courses: CS50's Introduction to Databases with SQL, IBM SQL for Data Science, CS50's Introduction to Computer Science, Stanford Machine Learning Engineer, IBM AI Engineering, Google Advanced Data Analytics, Mathematics for Machine Learning and Data Science, Computational Mathematics, Crash Course on Python
 - ⭐ I’m looking to collaborate on Machine Learning and Computer Vision Projects
 - 📫 How to reach me: kiana.jafari.ai@gmail.com
@@ -46,3 +46,6 @@ Projects:
    - <a href='https://github.com/Kiana-Jafari/2D-Side-Scrolling-Video-Game.git'>2D Side-Scrolling Video Game</a>
    - <a href='https://github.com/Kiana-Jafari/Particle-System.git'>Particle System</a>
    - <a href='https://github.com/Kiana-Jafari/Traffic-Line.git'>Traffic Flow Simulator</a>
+
+7. SystemVerilog
+   - <a href='https://github.com/Kiana-Jafari/SystemVerilog/blob/main/src/half_adder.sv'>Half Adder</a>
