@@ -49,3 +49,4 @@ Projects:
 
 7. SystemVerilog
    - <a href='https://github.com/Kiana-Jafari/SystemVerilog/blob/main/src/half_adder.sv'>Half Adder</a>
+   - <a href='https://github.com/Kiana-Jafari/SystemVerilog/blob/main/src/full_adder.sv'>Full Adder</a>
