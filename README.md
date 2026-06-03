@@ -48,6 +48,7 @@ Projects:
    - <a href='https://github.com/Kiana-Jafari/Traffic-Line.git'>Traffic Flow Simulator</a>
 
 7. SystemVerilog
+   - <a href='https://github.com/Kiana-Jafari/SystemVerilog-ANN.git'>SystemVerilog Neural Network Inference</a>
    - <a href='https://github.com/Kiana-Jafari/SystemVerilog/blob/main/src/half_adder.sv'>Half Adder</a>
    - <a href='https://github.com/Kiana-Jafari/SystemVerilog/blob/main/src/full_adder.sv'>Full Adder</a>
    - <a href='https://github.com/Kiana-Jafari/SystemVerilog/blob/main/src/mux_2to1.sv'>2-to-1 Multiplexer</a>
