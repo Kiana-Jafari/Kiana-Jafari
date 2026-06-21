@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kiana! A current CE student and a former dual enrollment CS student at the University of London
+- 👋 Hi, I’m Kiana! A current CE student and a previous CS student at the University of London
 - 💞️ I’m interested in Quantum Computing, Data Science, FinTech, Deep Learning, Computer Vision, and my forever love, Machine Learning!
 - 🌱 I’m currently learning C++ & Databases with SQL, SystemVerilog, Computer Science, Java, Deep Learning, and Artificial Intelligence
 - 💻 Courses: CS50's Introduction to Databases with SQL, IBM SQL for Data Science, CS50's Introduction to Computer Science, Stanford Machine Learning Engineer, IBM AI Engineering, Google Advanced Data Analytics, Mathematics for Machine Learning and Data Science, Computational Mathematics, Crash Course on Python
