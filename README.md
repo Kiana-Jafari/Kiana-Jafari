@@ -44,6 +44,7 @@ Projects:
 
 5. Java
    - <a href='https://github.com/Kiana-Jafari/Java/tree/main/Volleyball'>Volleyball Team Management System (Java version)</a>
+   - <a href='https://github.com/Kiana-Jafari/Java/tree/main/Book%20Store'>Bookstore Management System</a>
 
 6. JavaScript
    - <a href='https://github.com/Kiana-Jafari/2D-Side-Scrolling-Video-Game.git'>2D Side-Scrolling Video Game (UoL)</a>
